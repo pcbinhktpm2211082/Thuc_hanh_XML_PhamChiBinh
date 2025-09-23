@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<store>
-    <product id="P001" category="Điện tử" price="1500" currency="USD" name="Laptop Dell XPS 13"/>
-    <product id="P002" category="Thời trang" price="1200000" currency="VND" name="Áo khoác nam cao cấp"/>
-    <product id="P003" category="Gia dụng" price="350000" currency="VND" name="Ấm siêu tốc Philips"/>
-</store>
