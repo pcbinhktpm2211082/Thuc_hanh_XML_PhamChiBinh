@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE class SYSTEM "sinhvien.dtd">
+<class>
+    <student>
+        <id>SV001</id>
+        <name>Nguyễn Văn A</name>
+        <subjects>
+            <subject>
+                <subject_name>Cơ sở dữ liệu</subject_name>
+                <score>8.5</score>
+            </subject>
+            <subject>
+                <subject_name>Lập trình Java</subject_name>
+                <score>7.8</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student>
+        <id>SV002</id>
+        <name>Trần Thị B</name>
+        <subjects>
+            <subject>
+                <subject_name>Toán rời rạc</subject_name>
+                <score>9.0</score>
+            </subject>
+            <subject>
+                <subject_name>Mạng máy tính</subject_name>
+                <score>8.2</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student>
+        <id>SV003</id>
+        <name>Lê Văn C</name>
+        <subjects>
+            <subject>
+                <subject_name>Hệ điều hành</subject_name>
+                <score>7.5</score>
+            </subject>
+            <subject>
+                <subject_name>Lập trình Python</subject_name>
+                <score>8.8</score>
+            </subject>
+        </subjects>
+    </student>
+</class>

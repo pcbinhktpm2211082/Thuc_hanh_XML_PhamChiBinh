@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE orders SYSTEM "donhang.dtd">
+<orders>
+
+    <!-- Đơn hàng 1 -->
+    <order id="O001" customer="Nguyễn Văn A" date="2025-03-02">
+        <item id="P001" quantity="2" price="500">
+            <name>Điện thoại Samsung Galaxy S22</name>
+        </item>
+        <item id="P002" quantity="1" price="1000">
+            <name>Laptop Dell XPS 13</name>
+        </item>
+    </order>
+
+    <!-- Đơn hàng 2 -->
+    <order id="O002" customer="Trần Thị B" date="2025-03-05">
+        <item id="P003" quantity="3" price="150">
+            <name>Tai nghe Bluetooth Sony</name>
+        </item>
+        <item id="P004" quantity="2" price="300">
+            <name>Máy in HP LaserJet</name>
+        </item>
+        <item id="P005" quantity="5" price="20">
+            <name>Cáp sạc USB-C</name>
+        </item>
+    </order>
+
+</orders>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE company SYSTEM "nhansu.dtd">
+<company>
+    <department name="Kế toán">
+        <employee id="E001">
+            <name>Nguyễn Văn A</name>
+            <position>Kế toán trưởng</position>
+        </employee>
+        <employee id="E002">
+            <name>Trần Thị B</name>
+            <position>Kế toán viên</position>
+        </employee>
+    </department>
+
+    <department name="Công nghệ thông tin">
+        <employee id="E003">
+            <name>Lê Văn C</name>
+            <position>Lập trình viên</position>
+        </employee>
+        <employee id="E004">
+            <name>Phạm Thị D</name>
+            <position>Quản trị hệ thống</position>
+        </employee>
+        <employee id="E005">
+            <name>Ngô Văn E</name>
+            <position>Trưởng phòng IT</position>
+        </employee>
+    </department>
+</company>

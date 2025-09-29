@@ -1,0 +1,20 @@
+<!ELEMENT hospital (appointment+)>
+
+<!ELEMENT appointment (patient, doctor)>
+<!ATTLIST appointment
+    id CDATA #REQUIRED
+    date CDATA #REQUIRED
+    status CDATA #REQUIRED>
+
+<!ELEMENT patient (name, dob)>
+<!ATTLIST patient
+    id CDATA #REQUIRED>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT dob (#PCDATA)>
+
+<!ELEMENT doctor (name, specialty)>
+<!ATTLIST doctor
+    id CDATA #REQUIRED>
+
+<!ELEMENT specialty (#PCDATA)>

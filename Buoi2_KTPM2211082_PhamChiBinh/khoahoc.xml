@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE elearning SYSTEM "khoahoc.dtd">
+<elearning>
+
+    <!-- Khóa học 1 -->
+    <course id="C001" category="Lập trình">
+        <title>Python cơ bản</title>
+        <instructor id="I001">
+            <name>Nguyễn Văn A</name>
+            <email>nguyenvana@example.com</email>
+        </instructor>
+        <students>
+            <student id="S001" progress="80">
+                <name>Trần Thị B</name>
+            </student>
+            <student id="S002" progress="50">
+                <name>Hoàng Minh C</name>
+            </student>
+        </students>
+    </course>
+
+    <!-- Khóa học 2 -->
+    <course id="C002" category="Thiết kế">
+        <title>Thiết kế Web cơ bản</title>
+        <instructor id="I002">
+            <name>Lê Thị D</name>
+            <email>led@example.com</email>
+        </instructor>
+        <students>
+            <student id="S003" progress="60">
+                <name>Nguyễn Văn E</name>
+            </student>
+            <student id="S004" progress="30">
+                <name>Phạm Thị F</name>
+            </student>
+            <student id="S005" progress="90">
+                <name>Đỗ Văn G</name>
+            </student>
+        </students>
+    </course>
+
+</elearning>
